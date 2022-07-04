@@ -11,6 +11,7 @@ public class GitTest01 {
         System.out.println("猪币吧 这怎么这么菜啊 version 3.0");
         System.out.println("猪币吧 这怎么这么菜啊 version 4.0");
         System.out.println("猪币吧 这怎么这么菜啊 version 5.0");
+        System.out.println("猪币吧 这怎么这么菜啊 version 6.0");
 
     }
 }
