@@ -14,6 +14,7 @@ public class GitTest01 {
         System.out.println("猪币吧 这怎么这么菜啊 version 6.0");
         System.out.println("猪币吧 这怎么这么菜啊 version 7.0");
         System.out.println("hot-fix test");
+        System.out.println("insert master");
 
     }
 }
