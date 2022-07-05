@@ -11,6 +11,5 @@ public class GitTest01 {
         System.out.println("insert master");
         System.out.println("push test");
 
-
     }
 }
